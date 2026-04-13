@@ -1,5 +1,5 @@
 # Face Recognition Using Linear Algebra Pipeline
-### PES University — UE24MA241B: Linear Algebra and Its Applications
+
 
 ---
 
